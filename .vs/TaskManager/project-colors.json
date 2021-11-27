@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5ca1ad6-c632-4ca4-b63b-3ae0d91c768b": {
+      "ProjectGuid": "e5ca1ad6-c632-4ca4-b63b-3ae0d91c768b",
+      "DisplayName": "TaskManagetWebAPI",
+      "ColorIndex": 0
+    },
+    "14280abc-e219-4908-bb3b-239073185c68": {
+      "ProjectGuid": "14280abc-e219-4908-bb3b-239073185c68",
+      "DisplayName": "TaskManagerFrontend",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
